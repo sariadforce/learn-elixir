@@ -6,7 +6,7 @@
 > ~ Douglas Crockford
 
 </div>
-
+affiliation: Federal University of Minas Gerais (UFMG)
 Once you understand basic **`Elixir`** syntax
 you may be wondering how to reuse
 both your own code across projects
